@@ -1,0 +1,2 @@
+"# Go"  initgit add README.mdgit commit -m "first commit"git branch -M maingit remote add origin https://github.com/lafik-ua/Go.gitgit push -u origin main
+"# Go" 
